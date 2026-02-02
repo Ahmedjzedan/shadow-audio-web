@@ -7,4 +7,4 @@ You can view our privacy policy here:
 [Privacy Policy](https://ahmedjzedan.github.io/shadow-audio-web/)
 
 ## Contact
-Support: support@shadowaudio.app
+Support: ahmedjzedan@gmail.com
